@@ -152,7 +152,7 @@
     "turndown": "^7.2.4",
     "unified": "^11.0.5",
     "vscode-icons-js": "^11.6.1",
-    "vscode-jsonrpc": "^9.0.1",
+    "vscode-jsonrpc": "^9.0.2",
     "vscode-languageserver-types": "^3.18.0",
     "wink-bm25-text-search": "^3.1.2",
     "ws": "^8.21.0",
